@@ -1,0 +1,54 @@
+body{
+    background-color: bisque;
+    margin: 40px 40px;
+    padding: 50px 50px
+}
+.box{
+    background-color: black;
+    padding :10px;
+}
+.col-md-1{
+    color: aliceblue;
+    text-align: start;
+}
+p{
+    color: aliceblue;
+    padding: 90px 80px
+}
+.col-md-6{
+      padding:70px 20px;
+      text-align: justify;
+      font-size: 19px;
+}
+.btn-warning{
+    background-color:darkorange;
+}
+.col-md-2{
+    padding-left: 220px;
+
+}
+.second-box{
+
+    background-color: black;
+    text-align: center;
+    font-size:30px ;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:80px 30px;
+    padding: 60px;
+}
+.star{
+text-align:center;
+padding:0px 20px 20px 20px;
+}
+.col-md-4{
+     color:aliceblue;
+     padding:30px 20px;
+     background-color: black;
+}
+.card-body{
+    color :black;
+    margin:20px 20px;
+    padding: 20px 20px;
+    background-color:aliceblue ;
+}
